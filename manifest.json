@@ -3,7 +3,7 @@
     "OrganizationName": "LZY-class",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/lzy98276/classisland-lzy-class/master/<id>/lzy-class.json",
-        "Version": 2
+        "Version": 1
     },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/lzy98276/classisland-lzy-class/master/policy.json",
