@@ -2,15 +2,15 @@
     "ServerKind": 0,
     "OrganizationName": "黎泽懿-课表管理集控中心",
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/lzy98276/classisland-mgmt-cfg/master/{id}/timetable.json",
+        "Value": "https://raw.githubusercontent.com/lzy98276/classisland-lzy-class/master/{id}/timetable.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/lzy98276/classisland-mgmt-cfg/master/{id}/timetable.json",
+        "Value": "https://raw.githubusercontent.com/lzy98276/classisland-lzy-class/master/{id}/timetable.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/lzy98276/classisland-mgmt-cfg/master/{id}/timetable.json",
+        "Value": "https://raw.githubusercontent.com/lzy98276/classisland-lzy-class/master/{id}/timetable.json",
         "Version": 1
     }
 }
