@@ -15,10 +15,10 @@
     },
     "DefaultSettingsSource": {
         "Value": "https://raw.githubusercontent.com/lzy98276/classisland-mgmt-cfg/master/settings.json",
-        "Version": 4
+        "Version": 1
     },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/lzy98276/classisland-mgmt-cfg/master/{id}/policy.json",
-        "Version": 4
+        "Version": 1
     }
 }
