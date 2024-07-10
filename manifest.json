@@ -2,11 +2,15 @@
     "ServerKind": 0,
     "OrganizationName": "LZY-class",
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/lzy98276/classisland-lzy-class/master/<id>/lzy-class.json",
+        "Value": "https://raw.githubusercontent.com/lzy98276/classisland-mgmt-cfg/master/{id}/timetable.json",
         "Version": 1
     },
-    "PolicySource": {
-        "Value": "https://raw.githubusercontent.com/lzy98276/classisland-lzy-class/master/policy.json",
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/lzy98276/classisland-mgmt-cfg/master/{id}/timetable.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/lzy98276/classisland-mgmt-cfg/master/{id}/timetable.json",
         "Version": 1
     }
 }
