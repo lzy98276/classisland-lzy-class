@@ -12,5 +12,8 @@
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/lzy98276/classisland-mgmt-cfg/master/{id}/timetable.json",
         "Version": 1
-    }
+    },
+    "DefaultSettingsSource": {
+        "Value": "https://raw.githubusercontent.com/lzy98276/classisland-mgmt-cfg/master/{id}/settings.json",
+        "Version": 1
 }
